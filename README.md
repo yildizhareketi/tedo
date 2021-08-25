@@ -1,0 +1,2 @@
+# tedo
+Tekno Demokrasi Projesi

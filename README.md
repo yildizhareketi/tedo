@@ -1,2 +1,2 @@
-# tedo
+# TedApp
 Tekno Demokrasi Projesi
